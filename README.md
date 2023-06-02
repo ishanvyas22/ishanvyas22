@@ -1,6 +1,6 @@
 ## Hi, I'm Ishan
 
-*I am back-end developer and open-source enthusiast. Currently working at [passbolt](https://passbolt.com).*
+*I am software engineer and open-source enthusiast. Currently working as back-end developer at [passbolt](https://passbolt.com).*
 
 ### Projects
 
