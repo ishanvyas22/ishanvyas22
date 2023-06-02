@@ -1,4 +1,30 @@
-### Hi there 👋
+## Hi, I'm Ishan
+
+*I am back-end developer and open-source enthusiast.*
+
+### Projects
+
+- AssetMix plugin for CakePHP ![AssetMix Stars](https://img.shields.io/github/stars/ishanvyas22/asset-mix?style=social)
+- CakePHP Adapter for Inertia.js ![CakePHP Intertia Stars](https://img.shields.io/github/stars/ishanvyas22/cakephp-inertiajs?style=social)
+
+*To suport my work with a few bucks, consider donating:*
+
+<a href="https://www.buymeacoffee.com/ishanvyas" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+</a>
+
+<a href="https://www.patreon.com/ishanvyas">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+**or** [Paypal me](https://paypal.me/IshanVyas?locale.x=en_GB)
+
+### Follow me
+
+[![Twitter Follow](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ishanvyas22)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-vyas-314111112)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ishancodes)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ishancodes)
 
 <!--
 **ishanvyas22/ishanvyas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
