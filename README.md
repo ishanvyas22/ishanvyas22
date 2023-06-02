@@ -1,11 +1,14 @@
 ## Hi, I'm Ishan
 
-*I am back-end developer and open-source enthusiast.*
+*I am back-end developer and open-source enthusiast. Currently working at [passbolt](https://passbolt.com).*
 
 ### Projects
 
-- AssetMix plugin for CakePHP ![AssetMix Stars](https://img.shields.io/github/stars/ishanvyas22/asset-mix?style=social)
-- CakePHP Adapter for Inertia.js ![CakePHP Intertia Stars](https://img.shields.io/github/stars/ishanvyas22/cakephp-inertiajs?style=social)
+- Awesome FOSS [![Awesome FOSS Stars](https://img.shields.io/github/stars/ishanvyas22/awesome-open-source-systems?style=social)](https://github.com/ishanvyas22/awesome-open-source-systems)
+- CakePHP + Vue.js SPA demo application [![AssetMix Stars](https://img.shields.io/github/stars/ishanvyas22/cakephpvue-spa?style=social)](https://github.com/ishanvyas22/cakephpvue-spa)
+- AssetMix plugin for CakePHP [![AssetMix Stars](https://img.shields.io/github/stars/ishanvyas22/asset-mix?style=social)](https://github.com/ishanvyas22/asset-mix)
+- CakePHP Adapter for Inertia.js [![CakePHP Intertia Stars](https://img.shields.io/github/stars/ishanvyas22/cakephp-inertiajs?style=social)](https://github.com/ishanvyas22/cakephp-inertiajs)
+- Laravel TODO API [![Laravel TODO API Stars](https://img.shields.io/github/stars/ishanvyas22/laravel-todo-list-api?style=social)](https://github.com/ishanvyas22/laravel-todo-list-api)
 
 *To suport my work with a few bucks, consider donating:*
 
